@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1584205424 source:c:\users\manji\onedrive\documents\testdiag\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1584205424 c:\users\manji\onedrive\documents\testdiag\resource.h
+
+1606062894 source:c:\users\manji\onedrive\documents\testdiag\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1584205424 source:c:\users\manji\onedrive\documents\taskfailedsuccessfully\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1584205424 c:\users\manji\onedrive\documents\taskfailedsuccessfully\resource.h
+
+1606106876 source:c:\users\manji\onedrive\documents\taskfailedsuccessfully\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
